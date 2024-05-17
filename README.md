@@ -169,5 +169,5 @@ Here’s what you can look forward to:
 
 # Twenty CRM
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/USERNAME/twenty)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/recrumind/twenty)
 
